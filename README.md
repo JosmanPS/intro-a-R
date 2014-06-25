@@ -1,4 +1,4 @@
-# Introudcción a R (IaR)
+# Introudcción a R
 
 Archivos del documento _Introudcción a R_ que realizamos:
 
